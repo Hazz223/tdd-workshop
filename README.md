@@ -12,3 +12,9 @@ a. To change a delimiter, the beginning of the string will contain a separate li
 7. Numbers bigger than 1000 should be ignored, so adding 2 + 1001 = 2
 8. Delimiters can be of any length with the following format: “//[delimiter]\n” for example: “//[blah]\n1blah2blah3” should return 6
 9. Allow multiple delimiters like this: “//[delim1][delim2]\n” for example “//[-][%]\n1-2%3” should return 6.
+
+
+Credit
+========
+
+This was originally created by Qaiser Mazhar (https://twitter.com/qaisermazhar)
